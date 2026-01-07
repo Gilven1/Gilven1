@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Youssef
 
-<!--
-**Gilven1/Gilven1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Web Developer**  
+I build clean, responsive, and user-friendly websites.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- Passionate about web development  
+- Focused on writing clean and efficient code  
+- Always learning and improving my skills  
+
+---
+
+## 🛠️ Skills
+- HTML  
+- CSS  
+- JavaScript  
+- React  
+- Modern Web Development  
+
+---
+
+## 📌 What I Do
+- Build responsive websites  
+- Create clean and simple UI  
+- Develop dynamic web apps with React  
+
+---
+
+⭐ Feel free to check my repositories and follow my journey!
