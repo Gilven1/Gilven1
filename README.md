@@ -8,9 +8,9 @@
 
 * 🛒 Create Shopify stores and Tebex websites.
 
-*⚡ Improve website performance, speed, and user experience.
+* ⚡ Improve website performance, speed, and user experience.
 
-*📱 Make websites fully responsive for desktop, tablet, and mobile.
+* 📱 Make websites fully responsive for desktop, tablet, and mobile.
 
 ---
 
@@ -22,4 +22,4 @@
 
 **My Goal**
 
-*✨ Deliver clean, fast, and user-friendly websites that bring ideas to life.
+* ✨ Deliver clean, fast, and user-friendly websites that bring ideas to life.
