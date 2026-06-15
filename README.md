@@ -1,22 +1,25 @@
-# 👋 Hi, I'm Youssef
+# Hey 👋 I'm a passionate Web Developer who enjoys turning ideas and designs into modern, responsive websites.
 
-💻 **Web Developer**  
-I build clean, responsive, and user-friendly websites.
+**What I Do**
 
----
+-🎨 Convert Figma designs into clean, pixel-perfect code.
 
-## 🚀 About Me
-- Passionate about web development  
-- Focused on writing clean and efficient code  
-- Always learning and improving my skills
-  
----
+-💻 Build websites using HTML, CSS, and JavaScript.
 
-## 📌 What I Do
-- Build responsive websites  
-- Create clean and simple UI  
-- Develop dynamic web apps with React  
+-🛒 Create Shopify stores and Tebex websites.
+
+-⚡ Improve website performance, speed, and user experience.
+
+-📱 Make websites fully responsive for desktop, tablet, and mobile.
 
 ---
 
-⭐ Feel free to check my repositories and follow my journey!
+**Currently Learning**
+
+-📚 Expanding my skills with React to build more powerful web applications.
+
+---
+
+**My Goal**
+
+-✨ Deliver clean, fast, and user-friendly websites that bring ideas to life.
