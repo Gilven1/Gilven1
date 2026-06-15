@@ -2,21 +2,21 @@
 
 **What I Do**
 
--🎨 Convert Figma designs into clean, pixel-perfect code.
+-- 🎨 Convert Figma designs into clean, pixel-perfect code.
 
--💻 Build websites using HTML, CSS, and JavaScript.
+-- 💻 Build websites using HTML, CSS, and JavaScript.
 
--🛒 Create Shopify stores and Tebex websites.
+-- 🛒 Create Shopify stores and Tebex websites.
 
--⚡ Improve website performance, speed, and user experience.
+--⚡ Improve website performance, speed, and user experience.
 
--📱 Make websites fully responsive for desktop, tablet, and mobile.
+--📱 Make websites fully responsive for desktop, tablet, and mobile.
 
 ---
 
 **Currently Learning**
 
--📚 Expanding my skills with React to build more powerful web applications.
+-- 📚 Expanding my skills with React to build more powerful web applications.
 
 ---
 
