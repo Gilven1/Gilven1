@@ -27,19 +27,6 @@ Currently focused on building with **Next.js, TypeScript, React, and postgresSQL
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Authentication & Security
-🔐 Supabase Auth  
-🛡️ Row Level Security (RLS)  
-🔑 Secure server-side authentication
-
-### Animation & Experience
-![Motion](https://img.shields.io/badge/Motion-000000?style=for-the-badge)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
 
 ---
 
