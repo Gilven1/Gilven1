@@ -5,7 +5,7 @@
 I build modern, scalable, and interactive web applications with a focus on
 clean architecture, smooth user experiences, and polished interfaces.
 
-Currently focused on building with **Next.js, TypeScript, React, and Supabase**.
+Currently focused on building with **Next.js, TypeScript, React, and postgresSQL**.
 
 ---
 
